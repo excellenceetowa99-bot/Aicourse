@@ -1,25 +1,24 @@
 # Aicourse
 
-Final project for the Building AI course
+AI Football Training Assistant
 
-## Summary
+Building AI course project
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+#Summary
 
+This project is an AI-powered football training assistant that helps players improve their skills, fitness, and decision-making. It provides personalized training plans, tracks progress, and gives feedback based on the player's performance.
 
-## Background
+#Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Many football players do not have access to professional coaches or personalized training. As a result, they may train inefficiently and improve more slowly. I chose this topic because I enjoy football and believe AI can help players train smarter and reach their full potential.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* Many players lack access to qualified coaches.
+* Training plans are often not personalized.
+* It is difficult for players to track their progress consistently.
 
+#How is it used?
 
-## How is it used?
-
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The user enters their age, position, skill level, and training goals into the app. The AI then creates a personalized training plan, suggests daily drills, monitors progress, and updates recommendations as the player's performance improves. The system is useful for beginners, amateur players, and anyone who wants to improve their football skills.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
